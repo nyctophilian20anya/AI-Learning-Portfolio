@@ -27,4 +27,14 @@ assessments, tool evaluations, and LLM comparisons — part of AI Camp program.
 
 \- ChatGPT 4.0
 
+## AUTHOR
+**TANYA VERMA**
+Senior SDET | Wipro Technologies
+GitHub: https://github.com/nyctophilian20anya
+Linkedin: https://www.Linkedin.com/in/tanya-verma-8514261ba?
+
+##LICENSE
+This project is licensed under the MIT License - see the LICENSE file for details.
+@2026 TANYA VERMA. ALL RIGHTS RESERVED.
+
 \- Claude (Microsoft Copilot)
